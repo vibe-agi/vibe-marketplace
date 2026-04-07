@@ -1,0 +1,21 @@
+{
+  "name": "vibe-marketplace",
+  "owner": {
+    "name": "vibe-agi"
+  },
+  "metadata": {
+    "description": "Claude Code plugins and skills by vibe-agi",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "autoresearch-creator",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vibe-agi/autoresearch-creator.git"
+      },
+      "description": "Generate project-specific autonomous optimization skills inspired by karpathy/autoresearch. Analyzes your codebase, defines optimization pillars, and creates a self-improving experiment loop.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -15,7 +15,7 @@
         "url": "https://github.com/vibe-agi/autoresearch-creator.git"
       },
       "description": "Generate project-specific autonomous optimization skills inspired by karpathy/autoresearch. Analyzes your codebase, defines optimization pillars, and creates a self-improving experiment loop.",
-      "version": "0.3.0"
+      "version": "0.4.0"
     }
   ]
 }
